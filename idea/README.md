@@ -11,19 +11,12 @@ We have developed a solution that can contribute to make a little change and can
 It is a project entitled,  #SheCure   with tagline "Health Is What She Care The Most!"
 
 It involves multiple features like security ,safety and health.
-
 We have incorporated a chat system among same age groups.
 Not only this much but knowledge related to  every day's health issues,  awareness about opportunities , encompassing technologies and self help section.
 It accommodate everything ranging from learning to fun.
 
 
-
-
-
-
-
-
-
+[ERROR-TRACE-MSFT-AZURE-PPT.pdf](https://github.com/harshita-bfly/Error-Trace/files/8941467/ERROR-TRACE-MSFT-AZURE-PPT.pdf)
 
 
 
