@@ -14,7 +14,13 @@ It involves multiple features like security ,safety and health.
 
 We have incorporated a chat system among same age groups.
 Not only this much but knowledge related to  every day's health issues,  awareness about opportunities , encompassing technologies and self help section.
-It accommodate everything ranging from learning to fun.r idea files to this directory. Please don't rename this directory.
+It accommodate everything ranging from learning to fun.
+
+
+
+
+
+
 
 
 
